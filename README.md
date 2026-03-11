@@ -10,4 +10,5 @@ A nerf gun mod that (hopefully) will help make my gun shoot faster.
   - Access to a 3d printer (For our mount)
   - Soldering Set (Tape works but is hard to use)
 
-# Assembly
+
+P.S. Please tell me if I should add a seperate file for the BOM and if I should add anything.
