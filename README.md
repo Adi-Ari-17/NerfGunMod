@@ -11,4 +11,9 @@ A nerf gun mod that (hopefully) will help make my gun shoot faster.
   - Soldering Set (Tape works but is hard to use)
 
 
+
+
+
+
+
 P.S. Please tell me if I should add a seperate file for the BOM and if I should add anything.
